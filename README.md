@@ -1,4 +1,4 @@
-# PracticalDynamicType, Part2
+# Practical Dynamic Type, Part2
 
 This repository contains a sample app to demonstrate concepts and code shown in "Practical Dynamic Type, Part 2"
 
